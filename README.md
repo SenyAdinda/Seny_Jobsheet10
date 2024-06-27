@@ -3,6 +3,6 @@ Membuat sebuah project yang memiliki 2 buah activity, dimana activity pertama me
 
 oleh : Seny Adinda Marsela STE2022O2720
 ## Demo Video
-
+![](https://github.com/SenyAdinda/Seny_Jobsheet10/blob/main/Seny_Jobsheet10.gif)
 ## Hasil Project
 ![](https://github.com/SenyAdinda/Seny_Jobsheet10/blob/main/Seny_Jobsheet10.png)
